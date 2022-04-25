@@ -1,15 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "tED63VEjebjpZWL3jwvqbt+W8QxcC0MGEfS6++rlhoY2Pnk7F5LvyDP4Hw4PA+RyHuF3/X+H+xvx3XLvCI0BcA==",
+  "dgSpecHash": "QV9NaZhg3CwFrXWcmqNqCR9drrJC7muWa52gGXxkN8pB/mu9QNKRCQk1VWqNotNx2gHzV98fWznxU2KVHR3arw==",
   "success": true,
-  "projectFilePath": "E:\\TRUENORTH\\TestJitsiApp\\TestJitsiApp\\TestJitsiApp.csproj",
+  "projectFilePath": "/Users/roy360erick/Projects/Demos/jitsi/TestJitsiApp/TestJitsiApp.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\PREDATOR\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
-    "C:\\Users\\PREDATOR\\.nuget\\packages\\plugin.permissions\\3.0.0.12\\plugin.permissions.3.0.0.12.nupkg.sha512",
-    "C:\\Users\\PREDATOR\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
-    "C:\\Users\\PREDATOR\\.nuget\\packages\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
-    "C:\\Users\\PREDATOR\\.nuget\\packages\\xamarin.forms\\4.8.0.1821\\xamarin.forms.4.8.0.1821.nupkg.sha512"
+    "/Users/roy360erick/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/roy360erick/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
+    "/Users/roy360erick/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/roy360erick/.nuget/packages/xamarin.essentials/1.5.3.2/xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "/Users/roy360erick/.nuget/packages/xamarin.forms/4.8.0.1821/xamarin.forms.4.8.0.1821.nupkg.sha512"
   ],
   "logs": []
 }

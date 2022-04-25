@@ -2,6 +2,7 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:ioslocal="clr-namespace:TestJitsiApp.iOS;assembly=TestJitsiApp.iOS;targetPlatform=iOS"
+             xmlns:custom="clr-namespace:TestJitsiApp.Renderer"
              x:Class="TestJitsiApp.MainPage">
     <ContentPage.Content>
         <StackLayout>
@@ -12,8 +13,8 @@
                     <ioslocal:JitsiMeetViewPage Frame="{x:Static ioslocal:JitsiMeetViewPage.MyFrame}"/>
                 </OnPlatform.iOS>
                 <OnPlatform.Android>
-                    <WebView x:Name="webview" WidthRequest="500" HeightRequest="1000" VerticalOptions="Center" HorizontalOptions="Center">
-                    </WebView>
+                    <custom:MyWebView x:Name="webview" WidthRequest="500" HeightRequest="1000" VerticalOptions="Center" HorizontalOptions="Center">
+                    </custom:MyWebView>
                 </OnPlatform.Android>
             </OnPlatform>
         </StackLayout>
